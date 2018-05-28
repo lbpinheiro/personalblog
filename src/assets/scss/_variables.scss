@@ -1,16 +1,17 @@
-/** 
+/**
  * Variables
  */
 
 // Colors
-$color-base: #222;
+$color-bg: #0e0d0c;
+$color-base: #b0adae;
 $color-primary: #5d93ff;
 $color-secondary: #f7a046;
 
-$color-white: lighten($color-base, 100%);
-$color-gray: lighten($color-base, 40%);
-$color-gray-border: lighten($color-base, 77%);
-$color-gray-bg: lighten($color-base, 79%);
+$color-white: lighten($color-base, 30%); //100
+$color-gray: darken($color-secondary, 40%);
+$color-gray-border: lighten($color-secondary, 8%); //77
+$color-gray-bg: darken($color-secondary, 15%); //79
 
 // Typographic
 $typographic-font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;

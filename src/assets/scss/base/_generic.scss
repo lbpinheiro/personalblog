@@ -1,4 +1,4 @@
-/** 
+/**
  * Generic
  */
 
@@ -9,6 +9,7 @@ html {
 body {
     font-family: $typographic-font-family;
     color: $typographic-base-font-color;
+    background-color:  $color-bg;
     line-height: $typographic-base-line-height;
     font-size: $typographic-base-font-size;
     -ms-text-size-adjust: 100%;
@@ -147,7 +148,7 @@ figcaption {
 }
 
 .content {
-   
+
     &__inner {
         margin-left: auto;
         margin-right: 0;
@@ -156,7 +157,7 @@ figcaption {
         width: 60%;
         height: auto;
         padding: 25px 20px;
-        
+
     }
 }
 
