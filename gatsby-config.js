@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://app.netlify.com/sites/laughing-panini-1b1632',
     title: 'Lucas Batochi Pinheiro',
-    subtitle: '(Developer | Programmer | Back End | Front End)',
+    subtitle: '(Developer)',
     copyright: '© All rights reserved',
     disqusShortname: 'lucasbp',
     menu: [

@@ -148,16 +148,14 @@ figcaption {
 }
 
 .content {
-
     &__inner {
         margin-left: auto;
-        margin-right: 0;
-        position: absolute;
+        margin-right: -15%; //0
+        //position: absolute;
         right: 0;
         width: 60%;
         height: auto;
         padding: 25px 20px;
-
     }
 }
 
