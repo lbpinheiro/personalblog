@@ -25,7 +25,7 @@ module.exports = {
       telegram: '#',
       twitter: 'lucasdesenv',
       github: 'lbpinheiro',
-      rss: '#',
+      rss: 'rss.xml',
       vk: '#'
     }
   },
